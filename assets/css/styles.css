@@ -1,0 +1,24 @@
+/*
+$purple: #7f3ea6;
+$blue: #3a86c2;
+$green: #51a74e;
+$orange: #f09c44;
+$red: #da4c48;
+*/
+
+html {
+	background: #da4c48;
+	text-align: center;
+	padding: 5% 2em;
+	margin: 0;
+}
+
+#logo {
+	display: block;
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+#logo .cls-1 {
+	fill: #f09c44;
+}
