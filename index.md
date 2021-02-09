@@ -1,9 +1,12 @@
-# Maxx Crawford on GitHub
+# Maxx Crawford
+
+Front-end Web Developer + UX Designer
 
 ## About
 - [GitHub Profile](https://github.com/maxxcrawford/)
 - [Personal Website](https://maxxcrawford.com)
 - [Twitter](https://twitter.com/woodenwarship)
+- [Medium](https://medium.com/@woodenwarship)
 
 ## Mozilla Projects
 - Mozilla.org (Bedrock)
@@ -20,7 +23,7 @@
 	- [GitHub Repo](https://github.com/mozilla/blurts-server)
 
 ## Community Projects
-- [Techlahoma](https://techlahoma.org/)
+- [Techlahoma Foundation](https://techlahoma.org/)
 - [Tulsa UX](https://tulsaux.com/)
 - [UXOK Design Conference](https://uxok.org/)
 
